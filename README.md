@@ -46,10 +46,6 @@ La asignatura de "Inteligencia Artificial” tiene como principal propósito que
 
 ***
 
-## Otros recursos
 
 
-- [Programa del curso](programa_INFO267.pdf)
-- [Repositorio INFO267 2018](https://github.com/matthieuvernier/INFO267)
-- [Repositorio INFO147](https://github.com/magister-informatica-uach/INFO147)
 
